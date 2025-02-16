@@ -14,14 +14,16 @@ This is my first ever proper hardware project!
 
 ## What components does it use?
 
-- SK618 Mini as RGB Lights (x3 of them)
+- SK6812 Mini as RGB Lights (x3 of them)
 - x1 Rotary Encoder (EC11 Vertical Circular mounted)
 - x9 Cherry MX Keys
 - x1 XIAO RP2040
 
 ## Demo
 
-![the_only_screenshot](screenshots/01.png)
+![Case](screenshots/01.png)
+![PCB](screenshots/02.png)
+![Schematic](screenshots/03.png)
 
 ## What tools did I use?
 
